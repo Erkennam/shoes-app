@@ -18,7 +18,7 @@ const Main:React.FC = ()=>{
     return (
         <div>
             <Menu></Menu>
-            <header className='bg-cover bg-no-repeat bg-center p-14 pr-24 pl-24 flex flex-col justify-end' style={{backgroundImage: 'url(https://media.adidas.kz/19502caeca55491a4200a34f7367dd33/26/ac1ad983e08ad3304a97e147f522747e/660289f1257a6/57aa.jpg:imgpbdl)', width:'100vw', height: '90vh'}}>
+            <header className='bg-cover bg-no-repeat bg-center p-14 pr-24 pl-24 flex flex-col justify-end' style={{backgroundImage: 'url(https://media.adidas.kz/8a35d12609da78b0a6c0e159eec3e97c/4/7f53f8c6c730af6aeb52e66eb74d8507/66d86d4f24288/428d.jpg:imgpbdl)', width:'100vw', height: '90vh'}}>
                 <div className='flex flex-col gap-4'>
                     <h1 className='text-white text-6xl font-bold'>культовые <br></br> коллекций <br></br> originals</h1>
                     <p className='text-white text-xl'>мы дали миру originals, ты делаешь его <br></br> уникальным</p>
